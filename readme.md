@@ -8,7 +8,7 @@
 <br />
 <br />
 ### Contact Us 
-[admin@ttkventures.com](mailto:arron@ttkventures.com)
+[admin@ttkventures.com](mailto:admin@ttkventures.com)
 
 
 
