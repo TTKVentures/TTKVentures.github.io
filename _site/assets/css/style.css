@@ -1,11 +1,11 @@
 img[alt=logo] {
   width: 100px;
   float: left;
-  padding: 16px;
+  margin: 8px;
   vertical-align: middle;
 }
 
-.main-title {
+#main-title {
   border-bottom: 0;
 }
 

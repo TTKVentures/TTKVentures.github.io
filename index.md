@@ -1,12 +1,8 @@
 ---
-layout: default
+layout: homepage
 ---
 
-![logo](/assets/ttk2.jpg "Title")
-<h1 class="main-title">TTK Ventures</h1>
 
-<br />
-<br />
 
 ## About
 TTK Ventures represents a group of independent investors with an aligned focus on the industrials sector.  We are particularly interested in automation, software, and technical services.  Our shared investment thesis is quite simple:  We invest in the right people followed by interesting technologies, and our holding period is forever.
