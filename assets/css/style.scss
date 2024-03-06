@@ -1,7 +1,21 @@
 ---
 ---
 
-img[alt=logo] {width: 100px}
+img[alt=logo] {
+    width: 100px;
+    float: left;
+    padding: 16px;
+    vertical-align: middle;
+}
+
+.main-title{
+    border-bottom: 0;
+}
+
+.box {
+    display: flex;
+    align-items:center;
+ }
 
 @import "jekyll-theme-primer";
 
