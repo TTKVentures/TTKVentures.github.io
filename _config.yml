@@ -1,2 +1,10 @@
 name: ""
 title: null
+theme: jekyll-theme-primer
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
