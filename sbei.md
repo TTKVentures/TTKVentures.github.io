@@ -9,7 +9,7 @@ We are looking for motivated individuals and teams near the beginning of their c
         <h2> Entrepreneur Profile</h2>
     </summary>
 
-While the educational background of the entrepreneur is certainly of interest, it is not our primary interest.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
+While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
 </details>
 
 <details>
@@ -54,7 +54,7 @@ We are most interested in commercial and industrial service type businesses.  Bu
 
 #### Two Reasons  
 1. We genuinely believe that Good People + Hardwork + Support = Great Things.
-2. This is exactly the type of opportunity we wished would have been available to us at the onset of our careers.
+2. This is exactly the type of opportunity we wish would have been available to us at the onset of our careers.
 </details>
 
 <details>
@@ -63,7 +63,7 @@ We are most interested in commercial and industrial service type businesses.  Bu
     </summary>
 
 #### <ins>Why does SBEI own a majority of the business?
-Only in the beginning, and we really don't want it to stay that way.  We want our entrepreneurs to own and control the businesses they build.  We start the business this way so that we can make quick on going decisions on things like corporate structure, liability policies, employment strategies, and legal matters.  The hope is that our experience and infrastructure will free our entrepreneurs up to focus on growing and marketing the business.  Once things are truly humming along, then we sell our controlling interest back to the entrepreneur for $1.00...as in one buck.
+Only in the beginning, and we *really* don't want it to stay that way.  We want our entrepreneurs to own and control the businesses they build.  We start the business this way so that we can make quick on going decisions on things like corporate structure, liability policies, employment strategies, and legal matters.  The hope is that our experience and infrastructure will free our entrepreneurs up to focus on growing and marketing the business.  Once things are truly humming along, then we sell our controlling interest back to the entrepreneur for $1.00...as in one buck.
 
 #### <ins>Can I buy out 100% of my business?
 Sure.  Once the business has hit the mutually agreed upon net profit target and our initial investment has been paid back + $1.00, the business can be purchased at a fair-market valuation as determined by a 3rd-party appraiser. 
@@ -74,7 +74,7 @@ Operationally: &nbsp; Nothing.  &nbsp;That's up to you.
 While we remain the majority owners we will assist with setting up the company itself, establishing systems and software, yearly tax compliance, and other bureaucratic matters.  We will also hold strategy sessions and trainings specific to the entrepreneur.  The goal is to launch the entrepreneur from someone with a dream into a fully competent business executive.
 
 #### <ins> Is SBEI still a resource after I'm the majority owner?
-Absolutely--but only if you want us around.  We aim to prove ourselves as so valuable through the ramp up years, that we remain a 
+Absolutely--but only if you want us around.  We aim to prove ourselves as so valuable through the ramp up years, that you want us to stay on as an investment partner.
 
 #### <ins>Will I earn a salary?
 Yes, in fact--we'll require it.  Stability with your personal finances is a prerequistie to being able to concentrate on your business.
