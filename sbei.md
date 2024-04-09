@@ -4,24 +4,24 @@
 
 We are looking for motivated individuals and teams near the beginning of their career interested in starting a business.  Our aim is to not only to provide seed capital to start the businesses, but to become true partners with the end goal of creating financial independence for the entreprenuer, growth in the surrounding employment market, and charitable benefits to the community which we serve.
 
-<details>
-    <summary><h2> Entrepreneur Profile</h2></summary>
-    
-While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
-</details>
 
-<details>
-    <summary>
-        <h2>Business Profile</h2>
-    </summary>
+## Entrepreneur Profile
+
+While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
+
+
+
+    
+## Business Profile
+    
 
 We are most interested in commercial and industrial service type businesses.  Businesses that serve the general public or residential customers are still interesting to us if they have a technical aspect to their offering.  We are generally not interested in helping start things like a coffee shop, restaurant, or retail businesses.  Think more along the lines of a lawn care business, roofing, machinery services, or a novel offering of X to solve problem Y in the aforementioned sectors.  If what you have in mind isn't listed here, refer back to the [Entrepreneur Profile](#markdown-entrepreneur-profile), which contains the most important qualifications.
-</details>
 
-<details>
-    <summary>
-        <h2>Example Investment Structure</h2>
-    </summary>
+
+
+    
+## Example Investment Structure
+    
 
 #### <ins>Jimmy's Widget Service</ins>
 * SBEI Investment:  $75,000
@@ -43,22 +43,22 @@ We are most interested in commercial and industrial service type businesses.  Bu
     |Profit|$18,000|$77,000|$160,000|$290,000|$480,000|
 
     By this model the entrepreneur could have easily returned all of the original SBEI investment and could purchase a majority stake in the business at the conclusion of Year 5 for $1.00.  This is of course an overly simplified and overly generalized model, but remains a great example of what can be done together.
-</details>
 
-<details>
-    <summary>
-        <h2>Why?</h2>
-    </summary>
+
+
+    
+## Why?
+    
 
 #### Two Reasons  
 1. We genuinely believe that Good People + Hardwork + Support = Great Things.
 2. This is exactly the type of opportunity we wish would have been available to us at the onset of our careers.
-</details>
 
-<details>
-    <summary>
-        <h2>FAQ</h2>
-    </summary>
+
+
+    
+        ##FAQ
+    
 
 #### <ins>Why does SBEI own a majority of the business?
 Only in the beginning, and we *really* don't want it to stay that way.  We want our entrepreneurs to own and control the businesses they build.  We start the business this way so that we can make quick on going decisions on things like corporate structure, liability policies, employment strategies, and legal matters.  The hope is that our experience and infrastructure will free our entrepreneurs up to focus on growing and marketing the business.  Once things are truly humming along, then we sell our controlling interest back to the entrepreneur for $1.00...as in one buck.
@@ -80,4 +80,3 @@ Yes, in fact--we'll require it.  Stability with your personal finances is a prer
 #### <ins>What about other health and other benefits?
 At a minimum you'll have health insurance through the bussiness.  Stability with your personal health is a prerequisite to be able to concentrate on the business.  Other benefits and details are mutually agreed upon and based on individual/family circumstances.
 
-</details>
