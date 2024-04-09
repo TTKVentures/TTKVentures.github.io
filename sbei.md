@@ -5,10 +5,8 @@
 We are looking for motivated individuals and teams near the beginning of their career interested in starting a business.  Our aim is to not only to provide seed capital to start the businesses, but to become true partners with the end goal of creating financial independence for the entreprenuer, growth in the surrounding employment market, and charitable benefits to the community which we serve.
 
 <details>
-    <summary>
-        <h2> Entrepreneur Profile</h2>
-    </summary>
-
+    <summary><h2> Entrepreneur Profile</h2></summary>
+    
 While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
 </details>
 
