@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Small Business Equity Initiative (SBEI)
 
 ## Concept
