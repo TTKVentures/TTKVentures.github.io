@@ -6,12 +6,12 @@ layout: page
 
 ## Concept
 
-We are looking for motivated individuals and teams near the beginning of their career interested in starting a business.  Our aim is to not only to provide seed capital to start the businesses, but to become true partners with the end goal of creating financial independence for the entreprenuer, growth in the surrounding employment market, and charitable benefits to the community which we serve.
+We are looking for motivated individuals and teams near the beginning of their career interested in starting a business.  Our aim is to not only to provide seed capital to start the businesses, but to become true partners with the end goal of creating financial independence for the entrepreneur, growth in the surrounding employment market, and charitable benefits to the community which we serve.
 
 
 ## Entrepreneur Profile
 
-While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstratble work-ethic and previous community and charitable activites.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
+While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstrable work-ethic and previous community and charitable activities.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
 
 
 
@@ -32,8 +32,8 @@ We are most interested in commercial and industrial service type businesses.  Bu
     * Equipment:  $25,000
     * Working Capital:  $50,000
 * Initial Ownership Split:  49% Entrepreneur  / 51% SBEI
-* Ownershp Transfer
-    * IF:  $400,000 in Net Profit acheived.
+* Ownership Transfer
+    * IF:  $400,000 in Net Profit achieved.
     * IF:  All SBEI investment paid back through distributions.
     * THEN:  Additional 2% of Business sold to Entrepreneur for $1.00.
     * Remaining Business available to Entrepreneur at fair-market valuations.
@@ -55,7 +55,7 @@ We are most interested in commercial and industrial service type businesses.  Bu
     
 
 #### Two Reasons  
-1. We genuinely believe that Good People + Hardwork + Support = Great Things.
+1. We genuinely believe that Good People + Hard Work + Support = Great Things.
 2. This is exactly the type of opportunity we wish would have been available to us at the onset of our careers.
 
 
@@ -79,8 +79,8 @@ While we remain the majority owners we will assist with setting up the company i
 Absolutely--but only if you want us around.  We aim to prove ourselves as so valuable through the ramp up years, that you want us to stay on as an investment partner.
 
 #### <ins>Will I earn a salary?
-Yes, in fact--we'll require it.  Stability with your personal finances is a prerequistie to being able to concentrate on your business.
+Yes, in fact--we'll require it.  Stability with your personal finances is a prerequisite to being able to concentrate on your business.
 
 #### <ins>What about other health and other benefits?
-At a minimum you'll have health insurance through the bussiness.  Stability with your personal health is a prerequisite to be able to concentrate on the business.  Other benefits and details are mutually agreed upon and based on individual/family circumstances.
+At a minimum you'll have health insurance through the business.  Stability with your personal health is a prerequisite to be able to concentrate on the business.  Other benefits and details are mutually agreed upon and based on individual/family circumstances.
 
