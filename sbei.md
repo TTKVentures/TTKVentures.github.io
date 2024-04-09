@@ -57,7 +57,7 @@ We are most interested in commercial and industrial service type businesses.  Bu
 
 
     
-        ##FAQ
+## FAQ
     
 
 #### <ins>Why does SBEI own a majority of the business?
