@@ -15,7 +15,7 @@ While the educational background of the entrepreneur is certainly of interest, i
 ## Business Profile
     
 
-We are most interested in commercial and industrial service type businesses.  Businesses that serve the general public or residential customers are still interesting to us if they have a technical aspect to their offering.  We are generally not interested in helping start things like a coffee shop, restaurant, or retail businesses.  Think more along the lines of a lawn care business, roofing, machinery services, or a novel offering of X to solve problem Y in the aforementioned sectors.  If what you have in mind isn't listed here, refer back to the [Entrepreneur Profile](#markdown-entrepreneur-profile), which contains the most important qualifications.
+We are most interested in commercial and industrial service type businesses.  Businesses that serve the general public or residential customers are still interesting to us if they have a technical aspect to their offering.  We are generally not interested in helping start things like a coffee shop, restaurant, or retail businesses.  Think more along the lines of a lawn care business, roofing, machinery services, or a novel offering of X to solve problem Y in the aforementioned sectors.  If what you have in mind isn't listed here, refer back to the [Entrepreneur Profile](#entrepreneur-profile), which contains the most important qualifications.
 
 
 
