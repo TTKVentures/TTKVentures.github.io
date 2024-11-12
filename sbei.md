@@ -33,9 +33,9 @@ We are most interested in commercial and industrial service type businesses.  Bu
     * Working Capital:  $50,000
 * Initial Ownership Split:  49% Entrepreneur  / 51% SBEI
 * Ownership Transfer
-    * IF:  $400,000 in Net Profit achieved.
+    * IF:  $300,000 in Net Profit achieved.
     * IF:  All SBEI investment paid back through distributions.
-    * THEN:  Additional 2% of Business sold to Entrepreneur for $1.00.
+    * THEN:  Additional 26% of Business sold to Entrepreneur for $1.00.
     * Remaining Business available to Entrepreneur at fair-market valuations.
 
     Here's a model of what this could look like over time:
