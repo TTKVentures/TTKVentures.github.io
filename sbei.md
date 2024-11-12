@@ -13,13 +13,14 @@ We are looking for motivated individuals and teams near the beginning of their c
 
 While the educational background of the entrepreneur is certainly of interest, it is not our primary consideration.  We are far, far more interested in your demonstrable work-ethic and previous community and charitable activities.  In short, if you are a good person and can't help but work your ass off--we'd like to chat.
 
+## Family Focused
 
+Our entreprenuers create an environment of stability, trust, and love in their homes.  It's a prerequisite for success in our businesses and the definition of success in our lives.  All of our investment partners are faithful Christians and it is the lens through which we advise on balancing the demands of work and family.  Our partnership would extend towards ensuring a strong business and family life are always present.
 
     
 ## Business Profile
-    
 
-We are most interested in commercial and industrial service type businesses.  Businesses that serve the general public or residential customers are still interesting to us if they have a technical aspect to their offering.  We are generally not interested in helping start things like a coffee shop, restaurant, or retail businesses.  Think more along the lines of a lawn care business, roofing, machinery services, or a novel offering of X to solve problem Y in the aforementioned sectors.  If what you have in mind isn't listed here, refer back to the [Entrepreneur Profile](#entrepreneur-profile), which contains the most important qualifications.
+We are most interested in B2B, commercial, or industrial service type businesses.  Businesses that serve the general public or residential customers are still interesting to us if they have a technical aspect to their offering.  We are generally not interested in helping start things like a coffee shop, restaurant, or retail businesses.  Think more along the lines of a lawn care business, roofing, machinery services, or a novel offering of X to solve problem Y in the aforementioned sectors.  If what you have in mind isn't listed here, refer back to the [Entrepreneur Profile](#entrepreneur-profile), which contains the most important qualifications.
 
 
 
